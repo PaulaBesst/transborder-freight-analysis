@@ -31,3 +31,4 @@ data/processed/merged.csv
 
 # Environment variable files
 .env
+powerbi/TransBorder_Freight_Dashboard.pbix
