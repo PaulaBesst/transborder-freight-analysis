@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Dataset folders
+data/raw/
+data/processed/merged.csv
+
+# If you want to keep merged.csv, comment out the above line
+
+# Logs
+*.log
+
+# Environment variable files
+.env
