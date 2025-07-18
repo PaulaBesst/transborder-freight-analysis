@@ -4,7 +4,7 @@ This project explores, cleans, and analyzes the **Transborder Freight Dataset** 
 
 ## Power BI Dashboard
 
-![Dashboard Screenshot](powerbi/Freight_Analysis_Dashboard.png)  
+![Dashboard Screenshot](dashboard.png)  
 
 ## Project Structure
 
