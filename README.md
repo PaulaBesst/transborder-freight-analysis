@@ -64,7 +64,7 @@ transborder-freight-analysis
 
 5. Open the `.pbix` file in Power BI Desktop to explore the dashboard
 
-## 📌 Features of the Power BI Dashboard
+## Features of the Power BI Dashboard
 
 - Slicers for:
   - **Year**
