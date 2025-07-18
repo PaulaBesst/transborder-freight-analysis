@@ -4,18 +4,20 @@ This project explores, cleans, and analyzes the **Transborder Freight Dataset** 
 
 ## Power BI Dashboard
 
-![Dashboard Screenshot](./powerbi/Freight_Analysis_Dashboard.png)  
+![Dashboard Screenshot](powerbi/Freight_Analysis_Dashboard.png)  
 
 ## Project Structure
 
 ```
-transborder-freight-analysis/
-│
-├── freight_analysis.py       # Full data wrangling, analysis, and plotting
-├── cleaned_transborder.csv   # Final cleaned dataset
-├── TransBorder_Freight_Dashboard.pbix  # Power BI dashboard
-├── screenshots/              # Folder for visuals
-└── README.md
+transborder-freight-analysis
+├── notebook               # Jupyter notebooks for data exploration and EDA
+│   └── freight_analysis.ipynb
+├── powerbi                  # Power BI file and image
+│   └── freight_dashboard.pbix
+│   └── freight_analysis_dashboard.png
+├── .gitignore                 # Files and directories to be ignored by Git
+├── requirements.txt          # Python package dependencies
+
 ```
 
 ## Objectives
